@@ -14,6 +14,8 @@ Additionally, depending on the specific functions you utilize, other citations m
 
 You can find the necessary references for specific functions in the corresponding documentation, such as `?runBayesSpaceClustering` under the "References" section.
 
+This is a test line from R Studio.
+
 ## License Information
 
 This program is free software: you can redistribute it and/or modify
@@ -25,3 +27,5 @@ This program is distributed in the hope that it will be useful,
 but **without any warranty**; without even the implied warranty of
 **merchantability** or **fitness for a particular purpose**.  See the
 [GNU General Public License](http://www.gnu.org/licenses/) for more details.
+
+
